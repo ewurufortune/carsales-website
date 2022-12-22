@@ -91,3 +91,10 @@ margin-bottom: 20px ;
 .snipimage img{
     height: 200px;
 }
+.carousel-caption{
+    background-image: url("images/ayo-ogunseinde-sibVwORYqs0-unsplash.jpg");
+}
+.carousel-img{
+    width: 100vw;
+    height: 16vw;
+}
